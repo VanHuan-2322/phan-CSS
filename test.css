@@ -1,0 +1,12 @@
+.a {
+    display:flex;
+    flex-direction: row;
+    max-width: 1000px;
+    margin:auto;
+    gap: 20px;
+}
+.img{
+    width:20px;
+    height: 40px;
+    transition:all 0.15s;
+}
